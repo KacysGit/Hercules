@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Hercules/static/js/main.879a346c.js",
-    "static/js/694.899651d0.js": "/Hercules/static/js/694.899651d0.js",
+    "main.js": "/Hercules/static/js/main.b732b4ef.js",
+    "static/js/365.19228e7a.js": "/Hercules/static/js/365.19228e7a.js",
     "static/media/Ionicons.ttf": "/Hercules/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/buff.png": "/Hercules/static/media/buff.216a279dee6ca5c05e0d.png",
     "favicon.ico": "/Hercules/favicon.ico",
@@ -10,11 +10,11 @@
     "favicon-16.png": "/Hercules/favicon-16.png",
     "serve.json": "/Hercules/serve.json",
     "manifest.json": "/Hercules/manifest.json",
-    "main.879a346c.js.map": "/Hercules/static/js/main.879a346c.js.map",
-    "694.899651d0.js.map": "/Hercules/static/js/694.899651d0.js.map"
+    "main.b732b4ef.js.map": "/Hercules/static/js/main.b732b4ef.js.map",
+    "365.19228e7a.js.map": "/Hercules/static/js/365.19228e7a.js.map"
   },
   "entrypoints": [
-    "static/js/694.899651d0.js",
-    "static/js/main.879a346c.js"
+    "static/js/365.19228e7a.js",
+    "static/js/main.b732b4ef.js"
   ]
 }
